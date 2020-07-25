@@ -1,0 +1,28 @@
+{
+  "name" : "ahs189",
+  "title" : "AHS 1.8.9 PvP",
+  "gameVersion" : "1.8.9",
+  "features" : [
+    {
+      "properties" : {
+        "name" : "Keystrokes",
+        "description" : "Adds to key strokes, fps and cps to the HUD. \n\nThe commands are /fpsmod /cpsmod and /keystrokes",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*CheatBreakerHUD*"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
+  "userFiles" : {
+    "include" : [ ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [ ]
+  }
+}
