@@ -1,0 +1,11 @@
+[01:49:54] [Client thread/INFO]: Setting user: Player
+[01:49:57] [Client thread/INFO]: LWJGL Version: 3.2.2 build 10
+[01:50:00] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[01:50:03] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[01:50:06] [Client thread/INFO]: OpenAL initialized.
+[01:50:06] [Client thread/INFO]: Sound engine started
+[01:50:06] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[01:50:07] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[01:50:07] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[01:50:07] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
+[01:50:35] [Client thread/INFO]: Stopping!
