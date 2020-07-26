@@ -2,7 +2,22 @@
   "name" : "nightmare_industries",
   "title" : "Nightmare Industries",
   "gameVersion" : "1.12.2",
-  "features" : [ ],
+  "features" : [
+    {
+      "properties" : {
+        "name" : "Optifine",
+        "description" : "Optifine",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*OptiFine_1.12.2_HD_U_F5l*"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
   "userFiles" : {
     "include" : [
       "options.txt",

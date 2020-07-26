@@ -1,0 +1,9 @@
+{
+  "config": {
+    "consequencesAccepted": true,
+    "tiles": {
+      "waypoints": []
+    },
+    "ignoreFairPlay": false
+  }
+}
