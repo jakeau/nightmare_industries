@@ -13,7 +13,7 @@ $packages[] = array(
 $packages[] = array(
     'name' => 'nightmare_industries',
     'title' => 'Nightmare Industries',
-    'version' => '2020-07-27-12-40-07',
+    'version' => '2020-07-27-13-05-22',
     'priority' => 90,
     'location' => 'nightmare_industries.json',
 );

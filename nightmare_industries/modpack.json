@@ -12,7 +12,147 @@
       },
       "files" : {
         "include" : [
-          "mods/*OptiFine_1.12.2_HD_U_F5l*"
+          "mods/_CLIENT/*OptiFine_1.12.2_HD_U_F5l*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "AppleSkin",
+        "description" : "Show effects of food on your hunger",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/_CLIENT/*AppleSkin*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Bad Wither no Cookie Reloaded",
+        "description" : "New sound effects",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/_CLIENT/*badwithernocookie*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Better Advancements",
+        "description" : "Improve advancements",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/_CLIENT/*BetterAdvancements*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Better FPS",
+        "description" : "Improve your FPS",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/_CLIENT/*BetterFps*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Blue",
+        "description" : "Add blur effects",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/_CLIENT/*Blue*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Client Tweaks",
+        "description" : "Small modded client tweaks",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/_CLIENT/*ClientTweaks*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Inventory Tweaks",
+        "description" : "Tweak your inventory",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/_CLIENT/*InventoryTweaks*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Neat",
+        "description" : "Make things neater",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/_CLIENT/*Neat*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Overloaded Armourbar",
+        "description" : "Cool Armour Bar",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/_CLIENT/*overloadedarmorbar*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Toast Control",
+        "description" : "Control the toast",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/_CLIENT/*Toast*"
         ],
         "exclude" : [ ]
       }
