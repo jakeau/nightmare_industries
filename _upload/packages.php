@@ -5,7 +5,7 @@ $packages = array();
 $packages[] = array(
     'name' => 'ahs189',
     'title' => 'AHS 1.8.9 PvP',
-    'version' => '2020-07-27-08-04-59',
+    'version' => '2020-07-27-12-15-00',
     'priority' => 100,
     'location' => 'ahs189.json',
 );
@@ -13,7 +13,7 @@ $packages[] = array(
 $packages[] = array(
     'name' => 'nightmare_industries',
     'title' => 'Nightmare Industries',
-    'version' => '2020-07-27-08-05-50',
+    'version' => '2020-07-27-12-40-07',
     'priority' => 90,
     'location' => 'nightmare_industries.json',
 );
@@ -21,7 +21,7 @@ $packages[] = array(
 $packages[] = array(
     'name' => 'labymod',
     'title' => 'LMod 1.8.9',
-    'version' => '2020-07-27-08-04-53',
+    'version' => '2020-07-27-12-14-49',
     'priority' => 0,
     'location' => 'labymod.json',
 );
