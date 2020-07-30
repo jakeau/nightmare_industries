@@ -1,0 +1,8 @@
+{
+  "config": {
+    "optionToggleSprint": true,
+    "optionToggleSneak": false,
+    "optionEnableFlyBoost": true,
+    "optionFlyBoostAmount": 2
+  }
+}

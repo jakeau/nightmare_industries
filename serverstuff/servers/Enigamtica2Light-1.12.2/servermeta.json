@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "version": "1.0.1",
+    "name": "Enigamtica 2 Light (Minecraft 1.12.2)",
+    "description": "Enigamtica 2 Light Running Minecraft 1.12.2 (Forge v14.23.5.2847)",
+    "address": "modlauncher.ahsmc.net:25565",
+    "discord": {
+      "clientId": "720877231252963328",
+      "smallImageText": "thingo",
+      "smallImageKey": "seal-circle"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2847"
+  }
+}

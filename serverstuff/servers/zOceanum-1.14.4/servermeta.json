@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "name": "Oceanum (Minecraft 1.14.4)",
+    "description": "Oceanum Running Minecraft 1.14.4 (Forge v28.1.107)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "28.1.107"
+  }
+}
